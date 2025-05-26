@@ -1,22 +1,21 @@
 🕘️更新时间,#genre#
-2025-05-26 18:20:04,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+2025-05-27 06:14:30,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-CCTV-3,http://112.101.78.50:9901/tsfile/live/0003_1.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
-CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-7,http://119.32.12.17:2901/udp/224.1.100.27:11111
+CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-7,http://qjrhc.jydjd.top:2911/udp/224.1.100.27:11111
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-11,http://119.32.12.17:2901/udp/224.1.100.44:11111
 CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 东南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.56:11111
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://zqh2333.top:2222/rtp/239.93.55.45:5140
@@ -24,7 +23,9 @@ CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 辽宁卫视,http://119.32.12.17:2901/udp/224.1.100.92:11111
 
 🎬电影频道,#genre#
+CHC家庭影院,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-JTYY-HD/index.m3u8
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
+CHC动作电影,http://cs.5gtv.hbcatv.cn:9093/live/OP001/IP-DZDY-HD/index.m3u8
 CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
@@ -34,13 +35,15 @@ CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🪁动画频道,#genre#
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 经典动漫,http://61.133.118.228:5001/yy/24180320
 漫画解说,http://61.133.118.228:5001/yy/1382735568
 
